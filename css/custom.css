@@ -1,0 +1,97 @@
+h1 {
+	padding-top: 20px;
+	color:  white;
+	font-family: 'Poiret One', cursive;
+}
+
+h4 {
+	padding-top: 20px;
+	color:  white;
+	font-family: 'Poiret One', cursive;
+}
+
+body 
+{
+	background-color: #292e37;
+	border-top: 10px solid #21ffc2;
+}
+
+.portfolio
+{
+	margin: 48px 0;
+}
+
+.portfolio-sorting
+{
+	text-transform: uppercase;	
+	font-size: 16px;
+	margin-bottom: 48px;
+	font-family: 'Poiret One', cursive;
+}
+
+.portfolio-sorting li a 
+{
+	color: #ffffff;
+	text-decoration: none;
+	padding: 6px;
+}
+.portfolio-sorting li a:hover,
+.portfolio-sorting li a.active
+{
+	color: #21ffc2;
+	border-bottom: 2px solid #21ffc2;
+}
+
+.portfolio-item 
+{
+	margin-bottom: 30px;
+}
+
+
+
+/**************
+	FOOTER
+***************/
+footer
+{
+	border-top: 5px solid #FE5F55;
+
+	background-color: #292E37;
+	padding: 24px;
+	font-size: 16px;
+	font-family: 'Poiret One', cursive;
+}
+
+footer,
+footer a
+{
+	color: white;
+}
+
+footer a:hover 
+{
+	color: #EF626C;
+}
+
+footer .column ul li 
+{
+	margin-bottom: 6px;
+}
+
+footer .column h4 
+{
+	border-bottom: 2px solid #FE5F55;
+	padding-bottom: 12px;
+    margin-bottom: 24px;
+}
+
+footer .column .glyphicon-chevron-right
+{
+	margin-right: 6px;
+	color: #FE5F55;
+}
+
+.social-icons 
+{
+	margin-bottom: 12px;	
+}
