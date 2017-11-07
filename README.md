@@ -9,6 +9,7 @@ The very first version at [http://hellodecentralized.world
 ](http://hellodecentralized.world) is just categorising the projects by industries or fields they are aiming at. It is also a simplified version where I assume one project can only belong to one industry/field. However, future versions of the site should include improvements in the following areas:
 
 ### Features
+- Data: Include name and short description of project that shows up when clicking/hovering onver the images
 - Search Bar
 - Navigation Bar for different Categorization methods
 
@@ -16,6 +17,7 @@ The very first version at [http://hellodecentralized.world
 - By industry/field (current), where each project tackles one main industry/field
 - By industry/field, where each project can tackle more than one
 - By platform, this is, nowadays, mostly Ethereum. However, more and more projects are moving to Cosmos, for instance.
+- By consensus protocols (blockchains)
 - (Maybe other ways)
 
 ## Special Thanks to:
